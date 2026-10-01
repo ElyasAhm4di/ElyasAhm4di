@@ -38,3 +38,24 @@ L'application suit une structure modulaire simple :
 1. Cloner le dépôt :
    ```bash
    git clone [https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git)
+   ```
+
+2. Configuration de la base de données :
+   - Créer une base de données locale (ex: via phpMyAdmin).
+   - Importer le fichier SQL du projet.
+   - Configurer les accès dans le fichier `bdd/env.php` :
+     ```php
+     <?php
+     $host = 'localhost';
+     $dbname = 'nom_de_la_base';
+     $user = 'root';
+     $pass = ''; // Laisser vide sous XAMPP/WAMP, 'root' sous MAMP
+     ```
+
+3. Démarrage :
+   - Placer le projet dans le répertoire public du serveur local (`htdocs`, `www`).
+   - Accéder à `http://localhost/Projet-de-Fin-d-ann-e/index.php`.
+
+## Équipe
+
+Projet réalisé par l'équipe Viking / Devik.
