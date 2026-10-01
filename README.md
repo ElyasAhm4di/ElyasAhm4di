@@ -4,21 +4,28 @@
 
 Étudiant en 2e année de BUT Informatique à l’IUT Grand Ouest Normandie
 
-**Développement · Machine learning · Cybersécurité**
+Développement • Machine Learning • Cybersécurité
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=default&hide_border=true" alt="Langages détectés dans mes dépôts publics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=default&hide_border=true" alt="Langages les plus utilisés dans mes dépôts publics" />
 
 </div>
 
 ## À propos
 
-Je m’intéresse au développement informatique, en particulier au machine learning et à la cybersécurité. Dans le cadre de ma formation, j’ai aussi travaillé sur des projets pédagogiques autour du développement web et mobile, des bases de données et de la programmation orientée objet.
+Je suis passionné par le développement informatique, avec un intérêt particulier pour le machine learning et la cybersécurité. Au cours de ma formation, j’ai également travaillé sur plusieurs projets pédagogiques autour du développement web et mobile, des bases de données et de la programmation orientée objet.
 
-## Projet
+J’aime concevoir des solutions fonctionnelles, apprendre de nouvelles technologies et développer mes compétences à travers des projets concrets.
+
+## Projets
 
 ### [Jeu de Memory](https://github.com/ElyasAhm4di/Js-memory-game)
 
-Un jeu de Memory réalisé en JavaScript, HTML et CSS. Le projet comprend un mélange des cartes, un compteur de coups et un chronomètre.
+Un jeu de Memory réalisé en JavaScript, HTML et CSS. Le projet inclut :
+
+- mélange automatique des cartes ;
+- compteur de coups ;
+- chronomètre ;
+- interface simple et interactive.
 
 [Jouer en ligne](https://elyasahm4di.github.io/Js-memory-game/)
 
@@ -40,3 +47,10 @@ Un jeu de Memory réalisé en JavaScript, HTML et CSS. Le projet comprend un mé
 - Français
 - Persan
 - Anglais — niveau B2
+
+## Objectifs
+
+- approfondir mes connaissances en développement logiciel ;
+- explorer les domaines du machine learning et de l’intelligence artificielle ;
+- développer des compétences en cybersécurité ;
+- participer à des projets concrets et innovants.
