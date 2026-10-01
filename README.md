@@ -1,33 +1,40 @@
-<h1 align="center">Elyas Ahmadi</h1>
-<h4 align="center">BUT Informatique | IUT Grand Ouest Normandie</h4>
+# Projet de Fin d'Année - Gestion de Transport
 
-<br>
+[![CI](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" height="150" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e" height="150" alt="Langages les plus utilisés"/>
-</div>
+Application web développée dans le cadre d'un projet de fin d'année universitaire. Le système gère un réseau de transport avec une interface de réservation pour les usagers et un panneau d'administration pour la gestion du réseau.
 
-<br>
+## Fonctionnalités
 
-### Focus
-Je suis actuellement en deuxième année de BUT Informatique. Mon objectif est d'acquérir des bases d'ingénierie logicielle solides. En parallèle de mon cursus, je me concentre sur la compréhension de l'architecture des systèmes, le machine learning et la cybersécurité. Mon approche est purement technique : lire de la documentation, écrire du code, expérimenter avec les algorithmes et comprendre la logique sous-jacente.
+**Espace Utilisateur :**
+- Inscription, connexion et gestion de profil.
+- Consultation de la carte interactive du réseau, des lignes, des horaires et des tarifs.
+- Réservation de trajets en ligne.
 
-### Technologies
+**Espace Administrateur :**
+- Tableau de bord récapitulatif.
+- Gestion des utilisateurs (CRUD des comptes clients).
+- Gestion du réseau (ajout et modification des lignes et trajets).
+- Suivi des statistiques d'utilisation et de fréquentation.
 
-**Core & Data**
-<br>
-![C](https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-151515?style=for-the-badge&logo=mysql&logoColor=white)
+## Stack Technique
 
-**Web & Back-end**
-<br>
-![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6)
+- Backend : PHP 8 natif (sans framework).
+- Frontend : HTML5, CSS3, JavaScript.
+- Base de données : MySQL / MariaDB.
+- CI/CD : GitHub Actions.
 
-### Langues
-- **Français** (Natif) • **Persan** (Natif) • **Anglais** (Technique - B2)
+## Architecture
+
+L'application suit une structure modulaire simple :
+- `/assets/` : Ressources graphiques (logo, carte).
+- `/bdd/` : Fichiers utilitaires, configuration et requêtes SQL (`BddUtils.php`, `LigneUtils.php`, etc.).
+- `/css/` et `/js/` : Feuilles de styles et scripts frontend.
+- `/includes/` : Composants de page partagés (header, footer, topbar).
+- Racine : Pages publiques et d'administration (ex: `index.php`, `admin_dashboard.php`, `reserver.php`).
+
+## Installation locale
+
+1. Cloner le dépôt :
+   ```bash
+   git clone [https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git)
