@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" height="150" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" height="150" alt="Statistiques GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e" height="150" alt="Langages les plus utilisés"/>
 </div>
 
@@ -22,8 +22,9 @@ Je suis actuellement en deuxième année de BUT Informatique. Mon objectif est d
 ![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-151515?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web**
+**Web & Back-end**
 <br>
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6)
