@@ -2,29 +2,29 @@
 
 # Bonjour, je suis Elyas 👋
 
-### Étudiant intéressé par le développement web, l'intelligence artificielle et l'automatisation
+### Étudiant en informatique orienté vers le développement, l'IA et la cybersécurité
 
 <p>
   <img src="https://img.shields.io/badge/Étudiant-en%20informatique-2563EB?style=for-the-badge" alt="Étudiant en informatique" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20IA%20%7C%20Automation-7C3AED?style=for-the-badge" alt="Web IA Automation" />
-  <img src="https://img.shields.io/badge/Disponible-pour%20apprendre%20et%20collaborer-059669?style=for-the-badge" alt="Disponible pour apprendre et collaborer" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20ML%20%7C%20Cybersecurity-7C3AED?style=for-the-badge" alt="Web Machine Learning Cybersecurity" />
+  <img src="https://img.shields.io/badge/Curieux%20et%20apprenant-059669?style=for-the-badge" alt="Curieux et apprenant" />
 </p>
 
 </div>
 
 ## À propos de moi
 
-Je suis étudiant et je construis progressivement mes compétences en informatique à travers des projets pédagogiques et personnels.
+Je suis étudiant en informatique, et je cherche à développer mes compétences dans des domaines qui m’intéressent vraiment :
 
-Je m'intéresse particulièrement à :
+- 🌐 le développement web ;
+- 🤖 le machine learning et l’intelligence artificielle ;
+- 🔐 la cybersécurité ;
+- ⚙️ l’automatisation ;
+- 🧩 la programmation orientée objet et les bonnes pratiques de conception.
 
-- 🌐 la création de sites et d'applications web ;
-- 📱 le développement web et mobile dans le cadre de projets pédagogiques ;
-- 🤖 l'intelligence artificielle et l'automatisation ;
-- 🧩 la programmation orientée objet et la conception de solutions simples ;
-- 📚 l'apprentissage continu et la découverte de nouvelles technologies.
+Je m’intéresse surtout à comprendre comment les technologies fonctionnent dans la pratique, à construire des projets concrets et à améliorer mes bases de façon progressive.
 
-> Je préfère progresser étape par étape, construire des projets concrets et améliorer mes bases plutôt que de prétendre tout maîtriser.
+> Je préfère apprendre avec des projets réels, des défis concrets et des notions solides, plutôt que de viser une image trop “parfaite”.
 
 ## Compétences et bases techniques
 
@@ -38,38 +38,45 @@ Je m'intéresse particulièrement à :
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
 </p>
 
-### Concepts et outils
+### Outils, bases de données et concepts
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Programmation%20orientée%20objet-6B7280?style=flat-square" alt="Programmation orientée objet" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/OOP-6B7280?style=flat-square" alt="Programmation orientée objet" />
   <img src="https://img.shields.io/badge/Base%20de%20données-0F766E?style=flat-square" alt="Base de données" />
 </p>
 
-## Projets et expériences
+### Intérêts techniques
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cybersecurity-00C2A8?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Automation-FFD166?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Web%20Development-4ECDC4?style=flat-square" alt="Web Development" />
+</p>
+
+## Projets et parcours
 
 ### SAE pédagogiques
 
-Projets réalisés ou explorés dans le cadre de ma formation, notamment autour de :
+Dans le cadre de ma formation, j’ai travaillé sur des projets autour de :
 
-- 🌍 développement web ;
-- 📱 développement mobile ;
-- 🗄️ bases de données et SQL ;
-- 🧱 programmation orientée objet ;
-- 🔧 travail en équipe, versionnement et organisation de projet.
+- 🌍 le développement web ;
+- 📱 le développement mobile ;
+- 🗄️ les bases de données et le SQL ;
+- 🧱 la programmation orientée objet ;
+- 🤝 le travail d’équipe et la gestion de projet.
 
-### Projets personnels
+### Axes de progression
 
-Je travaille progressivement sur des projets liés à :
+Je souhaite continuer à explorer :
 
-- le développement web ;
-- l'intelligence artificielle ;
-- l'automatisation de tâches ;
-- la mise en pratique de mes connaissances en programmation.
-
-Les projets présentés sur ce profil évolueront au fur et à mesure de mon apprentissage.
+- les applications du machine learning ;
+- les concepts de sécurité informatique ;
+- les outils d’automatisation ;
+- les projets personnels plus complets et utiles.
 
 ## Langues
 
@@ -79,11 +86,11 @@ Les projets présentés sur ce profil évolueront au fur et à mesure de mon app
 
 ## Objectifs actuels
 
-- 🚀 renforcer mes bases en développement web ;
-- 🧠 mieux comprendre les applications concrètes de l'IA ;
-- ⚙️ créer des automatisations utiles et simples ;
-- 🛠️ publier davantage de projets personnels ;
-- 🤝 apprendre à travers la collaboration et les retours.
+- 🚀 renforcer mes compétences en développement web ;
+- 🧠 approfondir le machine learning et ses cas concrets ;
+- 🔐 découvrir les fondamentaux de la cybersécurité ;
+- ⚙️ créer des projets utiles avec automatisation et logique ;
+- 🤝 continuer à apprendre avec des projets et des échanges.
 
 ## Me retrouver
 
