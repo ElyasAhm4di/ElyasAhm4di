@@ -1,25 +1,25 @@
 <h1 align="center">Elyas Ahmadi</h1>
-<h3 align="center">Étudiant en BUT Informatique | IUT Grand Ouest Normandie</h3>
+<h3 align="center">Étudiant en BUT Informatique (2e année) | IUT Grand Ouest Normandie</h3>
 
 <br>
 
-Je me forme actuellement à l'ingénierie logicielle avec pour objectif de concevoir des architectures fiables et maintenables. Mon cursus me donne des bases solides en développement, mais mon intérêt personnel me pousse à explorer en profondeur le fonctionnement des systèmes, la cybersécurité et les modèles d'apprentissage automatique. 
+Je suis étudiant en développement informatique. J'apprends à construire des applications de manière structurée avec un code propre. 
 
-J'aborde le code de manière pragmatique : une logique claire, des requêtes optimisées et une structure lisible.
+Actuellement, je consolide mon socle de compétences en ingénierie logicielle et je débute mon apprentissage sur deux domaines qui m'intéressent particulièrement : le Machine Learning et la cybersécurité.
 
-### Stack Technique
+### Compétences techniques
 
-* **Langages :** PHP, JavaScript, Python, SQL, HTML/CSS
-* **Bases de données :** MySQL, MariaDB, PostgreSQL
-* **Outils :** Git, GitHub, Linux, environnements de développement locaux
+* **Langages :** C, Java, Python, JavaScript, HTML/CSS, SQL, PHP
+* **Concepts et Systèmes :** Programmation Orientée Objet (POO), bases de l'environnement Linux
+* **Outils :** Maîtrise de Git et GitHub
 
-### Projet Principal
+### Projet récent
 
-* **Plateforme de Gestion de Transport :** Développement complet d'un système de réservation et d'un back-office d'administration en PHP natif (sans framework). Gestion des sessions, architecture MVC simplifiée et manipulation de bases de données relationnelles.
+* **Plateforme de Gestion de Transport :** Développement d'un système de réservation et d'un back-office en PHP natif. Ce projet m'a permis d'appliquer concrètement la gestion de bases de données relationnelles et la structuration d'une application de A à Z sans framework.
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Stats GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Langages les plus utilisés" width="48%" />
 </div>
