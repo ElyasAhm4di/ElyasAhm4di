@@ -1,61 +1,25 @@
-# Projet de Fin d'Année - Gestion de Transport
+<h1 align="center">Elyas Ahmadi</h1>
+<h3 align="center">Étudiant en BUT Informatique | IUT Grand Ouest Normandie</h3>
 
-[![CI](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions)
+<br>
 
-Application web développée dans le cadre d'un projet de fin d'année universitaire. Le système gère un réseau de transport avec une interface de réservation pour les usagers et un panneau d'administration pour la gestion du réseau.
+Je me forme actuellement à l'ingénierie logicielle avec pour objectif de concevoir des architectures fiables et maintenables. Mon cursus me donne des bases solides en développement, mais mon intérêt personnel me pousse à explorer en profondeur le fonctionnement des systèmes, la cybersécurité et les modèles d'apprentissage automatique. 
 
-## Fonctionnalités
+J'aborde le code de manière pragmatique : une logique claire, des requêtes optimisées et une structure lisible.
 
-**Espace Utilisateur :**
-- Inscription, connexion et gestion de profil.
-- Consultation de la carte interactive du réseau, des lignes, des horaires et des tarifs.
-- Réservation de trajets en ligne.
+### Stack Technique
 
-**Espace Administrateur :**
-- Tableau de bord récapitulatif.
-- Gestion des utilisateurs (CRUD des comptes clients).
-- Gestion du réseau (ajout et modification des lignes et trajets).
-- Suivi des statistiques d'utilisation et de fréquentation.
+* **Langages :** PHP, JavaScript, Python, SQL, HTML/CSS
+* **Bases de données :** MySQL, MariaDB, PostgreSQL
+* **Outils :** Git, GitHub, Linux, environnements de développement locaux
 
-## Stack Technique
+### Projet Principal
 
-- Backend : PHP 8 natif (sans framework).
-- Frontend : HTML5, CSS3, JavaScript.
-- Base de données : MySQL / MariaDB.
-- CI/CD : GitHub Actions.
+* **Plateforme de Gestion de Transport :** Développement complet d'un système de réservation et d'un back-office d'administration en PHP natif (sans framework). Gestion des sessions, architecture MVC simplifiée et manipulation de bases de données relationnelles.
 
-## Architecture
+<br>
 
-L'application suit une structure modulaire simple :
-- `/assets/` : Ressources graphiques (logo, carte).
-- `/bdd/` : Fichiers utilitaires, configuration et requêtes SQL (`BddUtils.php`, `LigneUtils.php`, etc.).
-- `/css/` et `/js/` : Feuilles de styles et scripts frontend.
-- `/includes/` : Composants de page partagés (header, footer, topbar).
-- Racine : Pages publiques et d'administration (ex: `index.php`, `admin_dashboard.php`, `reserver.php`).
-
-## Installation locale
-
-1. Cloner le dépôt :
-   ```bash
-   git clone [https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git)
-   ```
-
-2. Configuration de la base de données :
-   - Créer une base de données locale (ex: via phpMyAdmin).
-   - Importer le fichier SQL du projet.
-   - Configurer les accès dans le fichier `bdd/env.php` :
-     ```php
-     <?php
-     $host = 'localhost';
-     $dbname = 'nom_de_la_base';
-     $user = 'root';
-     $pass = ''; // Laisser vide sous XAMPP/WAMP, 'root' sous MAMP
-     ```
-
-3. Démarrage :
-   - Placer le projet dans le répertoire public du serveur local (`htdocs`, `www`).
-   - Accéder à `http://localhost/Projet-de-Fin-d-ann-e/index.php`.
-
-## Équipe
-
-Projet réalisé par l'équipe Viking / Devik.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
+</div>
