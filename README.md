@@ -55,15 +55,15 @@ L'objectif est d'apprendre par la pratique, avec des projets utiles et une progr
   <img src="https://img.shields.io/badge/Web%20Development-4ECDC4?style=flat-square" alt="Web Development" />
 </p>
 
-## Projets pédagogiques
+## Axes de travail actuels
 
-Dans le cadre de la formation, plusieurs SAE ont porté sur :
-
-- le développement web ;
-- le développement mobile ;
-- les bases de données et le SQL ;
-- la programmation orientée objet ;
-- le travail d'équipe et la gestion de projet.
+| Domaine | Indicateur visuel |
+|---------|-------------------|
+| Développement web | █████░ |
+| Machine learning / IA | ████░░ |
+| Cybersécurité | ███░░░ |
+| Automatisation | ███░░░ |
+| Programmation orientée objet | ████░░ |
 
 ## Langues
 
