@@ -29,20 +29,22 @@ Je consolide mes bases en ingénierie logicielle et je commence à m'intéresser
     <td width="50%" valign="top">
       <b>J'ai les bases en</b>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,php,git,github&theme=dark" alt="Technologies" />
+      <img src="https://skillicons.dev/icons?i=c,py,html,css,git,github&theme=dark" alt="Technologies au niveau bases" />
       <br><br>
-      C, Java, Python, JavaScript, HTML/CSS, SQL, PHP<br>
+      C, Python, HTML/CSS, SQL<br>
       Programmation orientée objet<br>
       Git et GitHub (usage régulier en projet d'équipe)
     </td>
     <td width="50%" valign="top">
       <b>J'ai des notions en</b>
       <br><br>
-      Environnement Linux<br>
-      Machine Learning<br>
-      Cybersécurité
+      <img src="https://skillicons.dev/icons?i=java,js,php,linux&theme=dark" alt="Technologies au niveau notions" />
       <br><br>
-      <sub>Domaines que je découvre : je les approfondis au fil de ma formation.</sub>
+      PHP, JavaScript, Java<br>
+      Environnement Linux<br>
+      Machine Learning, cybersécurité
+      <br><br>
+      <sub>Domaines que je continue d'approfondir au fil de ma formation.</sub>
     </td>
   </tr>
 </table>
