@@ -51,7 +51,7 @@ Je consolide mes bases en ingénierie logicielle et je commence à m'intéresser
 
 <br>
 
-## Projet récent
+## Projets récents
 
 ### Viking Transport : plateforme de réservation et back-office
 
@@ -65,6 +65,20 @@ Projet de fin d'année réalisé en équipe de huit (Groupe 3, agence DeviK) pou
 **Méthode :** démarche agile, Git avec une branche par fonctionnalité, démonstrations régulières au client.
 
 [Voir le dépôt](https://github.com/ElyasAhm4di/SAE_FIN_D_ANNEE)
+
+<br>
+
+### Jeu de plateau hexagonal et IA Minimax (SAÉ 2.1 & 2.2)
+
+Moteur de jeu en **Java** pour un jeu de plateau à somme nulle sur terrain hexagonal (règles de type YINSH), avec une IA qui choisit le meilleur coup. Projet **Maven** multi-modules, organisé en programmation orientée objet et couvert par des tests unitaires **JUnit 5**.
+
+- Module réutilisable de coordonnées hexagonales (systèmes cubique et doublé)
+- Modèle de jeu avec état immuable, actions de déplacement d'anneau et de retrait de ligne
+- IA Minimax avec élagage Alpha-Beta, jeu en ligne de commande contre l'IA
+
+**Ma part :** retrait de ligne (`removeLine`), détection des alignements de pions (`getPawnsLines`), vérification d'appartenance au terrain (`isInField`), classe `Action`, interface `AI` et jeu en console contre l'IA (`MainAI`).
+
+[Voir le dépôt](https://github.com/ElyasAhm4di/Jeu_JAVA_OOP)
 
 <br>
 
