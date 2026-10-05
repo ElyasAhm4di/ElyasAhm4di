@@ -51,7 +51,7 @@ Je consolide mes bases en ingénierie logicielle et je commence à m'intéresser
 
 <br>
 
-## Projets récents
+## Projet récent
 
 ### Viking Transport : plateforme de réservation et back-office
 
@@ -68,20 +68,6 @@ Projet de fin d'année réalisé en équipe de huit (Groupe 3, agence DeviK) pou
 
 <br>
 
-### Jeu de plateau hexagonal et IA Minimax (SAÉ 2.1 & 2.2)
-
-Moteur de jeu en **Java** pour un jeu de plateau à somme nulle sur terrain hexagonal (règles de type YINSH), avec une IA qui choisit le meilleur coup. Projet **Maven** multi-modules, organisé en programmation orientée objet et couvert par des tests unitaires **JUnit 5**.
-
-- Module réutilisable de coordonnées hexagonales (systèmes cubique et doublé)
-- Modèle de jeu avec état immuable, actions de déplacement d'anneau et de retrait de ligne
-- IA Minimax avec élagage Alpha-Beta, jeu en ligne de commande contre l'IA
-
-**Ma part :** retrait de ligne (`removeLine`), détection des alignements de pions (`getPawnsLines`), vérification d'appartenance au terrain (`isInField`), classe `Action`, interface `AI` et jeu en console contre l'IA (`MainAI`).
-
-[Voir le dépôt](https://github.com/ElyasAhm4di/Jeu_JAVA_OOP)
-
-<br>
-
 ## En ce moment
 
 - Consolider mes bases en ingénierie logicielle
@@ -92,8 +78,26 @@ Moteur de jeu en **Java** pour un jeu de plateau à somme nulle sur terrain hexa
 ## Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&locale=fr" alt="Statistiques GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&locale=fr" alt="Langages les plus utilisés" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&locale=fr" alt="Statistiques GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&locale=fr" alt="Langages les plus utilisés" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ElyasAhm4di&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=fr" alt="Séries de contributions" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ElyasAhm4di&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées GitHub" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElyasAhm4di&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Activit%C3%A9%20des%20contributions" alt="Graphique d'activité" width="97%" />
 </div>
 
 <!--
