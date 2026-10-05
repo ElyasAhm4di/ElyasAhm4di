@@ -91,13 +91,15 @@ Projet de fin d'année réalisé en équipe de huit (Groupe 3, agence DeviK) pou
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElyasAhm4di&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées GitHub" />
+  <img src="https://img.shields.io/github/followers/ElyasAhm4di?style=for-the-badge&labelColor=0D1117&color=58A6FF&label=Abonn%C3%A9s" alt="Abonnés GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=ElyasAhm4di&style=for-the-badge&label=Vues%20du%20profil&labelColor=0D1117&color=58A6FF" alt="Vues du profil" />
+  <img src="https://img.shields.io/github/last-commit/ElyasAhm4di/SAE_FIN_D_ANNEE?style=for-the-badge&labelColor=0D1117&color=58A6FF&label=Dernier%20commit" alt="Dernier commit" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElyasAhm4di&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Activit%C3%A9%20des%20contributions" alt="Graphique d'activité" width="97%" />
+  <img src="https://ghchart.rshah.org/58A6FF/ElyasAhm4di" alt="Contributions sur l'année" width="97%" />
 </div>
 
 <!--
