@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&locale=fr&theme=github_dark
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=stars,prs&hide_rank=true&disable_animations=true&hide_border=true&locale=fr&theme=github_dark
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&locale=fr
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=stars,prs&hide_rank=true&disable_animations=true&hide_border=true&locale=fr
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&locale=fr&theme=github_dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=hack&disable_animations=true&hide_border=true&locale=fr&theme=github_dark
           path: profile/langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,7 +46,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&locale=fr
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=hack&disable_animations=true&hide_border=true&locale=fr
           path: profile/langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

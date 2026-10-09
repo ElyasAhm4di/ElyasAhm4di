@@ -44,4 +44,4 @@ Mes exercices de SQL sur deux bases que j'ai inventées (un rallye-raid et une l
   </picture>
 </p>
 
-<sub>Les deux premières cartes sont recalculées chaque jour par une GitHub Action ([stats.yml](.github/workflows/stats.yml)). Pour les langages, je compte à moitié la taille du code et à moitié le nombre de dépôts, sinon le gros projet PHP écrase tout le reste.</sub>
+<sub>Les deux premières cartes sont recalculées chaque jour par une GitHub Action ([stats.yml](.github/workflows/stats.yml)). Pour les langages, je compte à moitié la taille du code et à moitié le nombre de dépôts, sinon le gros projet PHP écrase tout le reste. « Hack » est masqué : GitHub classe à tort quelques fichiers PHP dans ce langage.</sub>
