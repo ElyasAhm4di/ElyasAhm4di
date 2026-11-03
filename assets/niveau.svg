@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="388" viewBox="0 0 720 388" font-family="Arial, Helvetica, sans-serif">
+<text x="0" y="24" fill="#8b949e" font-size="16" font-weight="700">Niveau par domaine</text>
+<text x="0" y="44" fill="#8b949e" font-size="13">Auto-évaluation, mise à jour au fil des projets</text>
+<text x="0" y="69" fill="#8b949e" font-size="14" font-weight="700">HTML, CSS, JavaScript</text>
+<rect x="210" y="58" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="305" y="58" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="400" y="58" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="495" y="58" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<text x="600" y="69" fill="#2ea043" font-size="13" font-weight="700">À l'aise</text>
+<text x="0" y="109" fill="#8b949e" font-size="14" font-weight="700">SQL</text>
+<rect x="210" y="98" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="305" y="98" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="400" y="98" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<rect x="495" y="98" width="89" height="12" rx="3" fill="#2ea043" opacity="1"/>
+<text x="600" y="109" fill="#2ea043" font-size="13" font-weight="700">À l'aise</text>
+<text x="0" y="149" fill="#8b949e" font-size="14" font-weight="700">PHP</text>
+<rect x="210" y="138" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="305" y="138" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="400" y="138" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="138" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="149" fill="#8957e5" font-size="13" font-weight="700">Notions</text>
+<text x="0" y="189" fill="#8b949e" font-size="14" font-weight="700">Java</text>
+<rect x="210" y="178" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="305" y="178" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="400" y="178" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="178" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="189" fill="#8957e5" font-size="13" font-weight="700">Notions</text>
+<text x="0" y="229" fill="#8b949e" font-size="14" font-weight="700">C</text>
+<rect x="210" y="218" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="305" y="218" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="400" y="218" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="218" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="229" fill="#8957e5" font-size="13" font-weight="700">Notions</text>
+<text x="0" y="269" fill="#8b949e" font-size="14" font-weight="700">Python</text>
+<rect x="210" y="258" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="305" y="258" width="89" height="12" rx="3" fill="#8957e5" opacity="1"/>
+<rect x="400" y="258" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="258" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="269" fill="#8957e5" font-size="13" font-weight="700">Notions</text>
+<text x="0" y="309" fill="#8b949e" font-size="14" font-weight="700">Machine learning</text>
+<rect x="210" y="298" width="89" height="12" rx="3" fill="#d29922" opacity="1"/>
+<rect x="305" y="298" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="400" y="298" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="298" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="309" fill="#d29922" font-size="13" font-weight="700">Débutant</text>
+<text x="0" y="349" fill="#8b949e" font-size="14" font-weight="700">Cybersécurité</text>
+<rect x="210" y="338" width="89" height="12" rx="3" fill="#d29922" opacity="1"/>
+<rect x="305" y="338" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="400" y="338" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<rect x="495" y="338" width="89" height="12" rx="3" fill="#8b949e" opacity="0.25"/>
+<text x="600" y="349" fill="#d29922" font-size="13" font-weight="700">Débutant</text>
+</svg>
