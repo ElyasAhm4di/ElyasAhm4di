@@ -1,47 +1,61 @@
-# Salut, moi c'est Elyas
+<h1 align="center">Elyas Ahmadi</h1>
 
-Je suis en 2<sup>e</sup> année de BUT Informatique à l'IUT Grand Ouest Normandie, à Caen. Ici je mets mes projets de cours et ce que je code à côté pour progresser.
+<p align="center">
+  Étudiant en 2<sup>e</sup> année de BUT Informatique, IUT Grand Ouest Normandie (UNICAEN).<br>
+  Je cherche un stage de 8 à 10 semaines à partir du 5 avril 2027, à Caen.
+</p>
 
-En ce moment je travaille surtout les bases : écrire du code lisible, bien découper un projet, utiliser Git correctement en équipe. Le Machine Learning et la cybersécurité m'intéressent, mais je n'en suis qu'au début.
+<p align="center">
+  <a href="https://www.linkedin.com/in/elyas-ahmadi-25904a3a9"><img src="https://img.shields.io/badge/LinkedIn-Elyas_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Stage-avril_2027-222222?style=for-the-badge" alt="Stage avril 2027">
+</p>
 
-## Ce que j'utilise
+## À propos
 
-<img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,git,linux&theme=dark" alt="C, Python, Java, PHP, JavaScript, HTML, CSS, Git, Linux" />
+Je fais du développement web et logiciel : HTML, CSS et JavaScript, PHP et SQL, Java. Je débute en machine learning et en cybersécurité, deux domaines que je veux approfondir. Mes projets sont surtout des travaux d'équipe de l'IUT, et je continue d'apprendre avec de petits projets personnels.
 
-Plus SQL avec Oracle pour les bases de données. C'est en C, en Python et en SQL que j'ai le plus pratiqué. Pour le reste, j'apprends encore.
+## Technologies
+
+**Pratiquées en projet**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,git,github,linux,vscode,idea" alt="HTML, CSS, JavaScript, Bootstrap, PHP, Java, Git, GitHub, Linux, VS Code, IntelliJ IDEA">
+</p>
+
+SQL (Oracle) en plus, avec les requêtes de mes projets.
+
+**En apprentissage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" alt="Python, C">
+  <img src="https://img.shields.io/badge/Machine_learning-d%C3%A9butant-444444?style=flat-square" alt="Machine learning : débutant">
+  <img src="https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-d%C3%A9butant-444444?style=flat-square" alt="Cybersécurité : débutant">
+</p>
 
 ## Projets
 
-**[Viking Transport](https://github.com/ElyasAhm4di/SAE_FIN_D_ANNEE)** · PHP, Oracle, Bootstrap\
-Site de réservation pour un réseau de cars fictif, fait à huit en fin de première année. On peut réserver un trajet sur une ou plusieurs lignes, chercher un itinéraire, cumuler des points de fidélité, et il y a un espace admin. J'ai fait du développement PHP, dont la page de statistiques de l'admin.
+| Projet | Contenu | Technologies | Ma part |
+| --- | --- | --- | --- |
+| Viking Transport | Site de réservation de voyages en car (équipe de 8) | PHP, SQL, Bootstrap, Git | Page de statistiques de l'administrateur : 8 requêtes SQL, 7 onglets |
+| YINSH en Java | Jeu de plateau à deux joueurs (équipe de 4) | Java, Git | Contrôleurs de l'interface et 3 modes d'interaction à la souris |
+| animeRequester | Application web de recherche d'animes (équipe, en cours) | HTML, CSS, JavaScript, Git, GitHub | Formulaire, validation W3C, modules JavaScript, recherche par genre |
+| Jeu de memory | Jeu en JavaScript sans bibliothèque, 3 niveaux, chronomètre, meilleur score | JavaScript | Projet personnel |
 
-**[Jeu sur plateau hexagonal + IA](https://github.com/ElyasAhm4di/sae_othello_parent)** · Java, JavaFX, Maven\
-Un jeu de type YINSH sur un plateau hexagonal, avec une IA Minimax (élagage alpha-bêta), une version console et une interface JavaFX. J'ai codé entre autres le retrait des lignes, la vérification des cases du plateau et la partie en console contre l'IA.
+Les projets de première année sont hébergés sur le serveur de l'université et ne sont pas publics.
 
-**[Memory en JavaScript](https://github.com/ElyasAhm4di/Js-memory-game)** · JavaScript, HTML, CSS · [jouer en ligne](https://elyasahm4di.github.io/Js-memory-game/)\
-Un TD de 2<sup>e</sup> année : un Memory en JavaScript sans framework, pour apprendre à séparer l'état du jeu et l'affichage.
-
-**[Requêtes SQL](https://github.com/ElyasAhm4di/requetes-sql)** · SQL (Oracle)\
-Mes exercices de SQL sur deux bases que j'ai inventées (un rallye-raid et une librairie). Pour chaque question : la requête et le nombre de lignes obtenu.
-
-## Statistiques
+## Activité GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img src="./profile/stats-light.svg" alt="Statistiques GitHub" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg" />
-    <img src="./profile/langs-light.svg" alt="Langages les plus utilisés" width="49%" />
-  </picture>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions GitHub en 3D" width="100%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ElyasAhm4di&theme=dark&hide_border=true&locale=fr" />
-    <img src="https://streak-stats.demolab.com?user=ElyasAhm4di&hide_border=true&locale=fr" alt="Série de contributions" />
-  </picture>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Statistiques GitHub">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=compact&theme=transparent&hide_border=true" alt="Langages les plus utilisés">
 </p>
 
-<sub>Les deux premières cartes sont recalculées chaque jour par une GitHub Action ([stats.yml](.github/workflows/stats.yml)). Pour les langages, je compte à moitié la taille du code et à moitié le nombre de dépôts, sinon le gros projet PHP écrase tout le reste. « Hack » est masqué : GitHub classe à tort quelques fichiers PHP dans ce langage.</sub>
+## Contact
+
+Le plus simple est de m'écrire sur [LinkedIn](https://www.linkedin.com/in/elyas-ahmadi-25904a3a9).
+
+<sub>Je m'aide d'assistants IA pour structurer et relire mon travail.</sub>
