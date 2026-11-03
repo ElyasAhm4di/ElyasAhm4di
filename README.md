@@ -62,14 +62,6 @@ Je suis Elyas, développeur et passionné de machine learning. Ce qui m'attire, 
   </picture>
 </p>
 
-## Quand je suis libre
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix">
-  <img src="https://img.shields.io/badge/Prime_Video-1F2E3E?style=for-the-badge&logo=primevideo&logoColor=white" alt="Prime Video">
-  <img src="https://img.shields.io/badge/%E2%9A%BD_Football-2E7D32?style=for-the-badge" alt="Football">
-</p>
-
 ## Langues
 
 Persan (langue maternelle), français et anglais (B1 avancé).
