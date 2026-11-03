@@ -52,8 +52,14 @@ Je suis Elyas, développeur et passionné de machine learning. Ce qui m'attire, 
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=donut&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="160" src="./profile/stats-light.svg" alt="Statistiques GitHub">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg">
+    <img height="160" src="./profile/langs-light.svg" alt="Langages les plus utilisés">
+  </picture>
 </p>
 
 ## Quand je suis libre
