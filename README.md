@@ -1,83 +1,49 @@
-<h1 align="center">Elyas Ahmadi</h1>
+<!-- En-tête animé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Elyas%20Ahmadi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20%C2%B7%20Machine%20learning&descAlignY=58&descSize=18" alt="Elyas Ahmadi">
 
 <p align="center">
-  Étudiant en 2<sup>e</sup> année de BUT Informatique<br>
-  IUT Grand Ouest Normandie, Université de Caen Normandie
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+de+machine+learning;Je+code+en+Python%2C+JavaScript+et+Java;Mes+premiers+projets+de+ML+sont+en+cours" alt="Passionné de machine learning">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elyas-ahmadi-25904a3a9"><img src="https://img.shields.io/badge/LinkedIn-Elyas_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Machine_learning-d%C3%A9butant-222222?style=for-the-badge" alt="Machine learning : débutant">
-  <img src="https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-d%C3%A9butant-222222?style=for-the-badge" alt="Cybersécurité : débutant">
+  <a href="https://www.linkedin.com/in/elyas-ahmadi-25904a3a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammadelyasahmadi9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## Présentation
 
-Je suis Elyas, étudiant en deuxième année de BUT Informatique, avec un bac STI2D obtenu en 2025. Je travaille surtout sur des projets web et logiciels, la plupart en équipe, avec Git. Ce qui m'intéresse le plus, c'est le machine learning, puis la cybersécurité. Je débute dans les deux, et le développement est la base sur laquelle je m'appuie pour y arriver.
+Je suis Elyas, développeur et passionné de machine learning. Ce qui m'attire, c'est la vision par ordinateur et la façon dont les réseaux de neurones et les grands modèles de langage apprennent. J'ai commencé à faire mes premiers projets de machine learning en Python, et je m'intéresse aussi à la cybersécurité.
 
-## Ce que je fais en BUT Informatique
+## Domaines
 
-**Première année**
-- Développement en équipe : un site web de réservation en PHP et SQL (Viking Transport), un jeu de plateau en Java (YINSH) et un jeu en C.
-- Bases de données relationnelles avec Oracle, modélisation Merise (MCD et MLD).
-- Installation et configuration d'un serveur Linux.
+| Domaine | Où j'en suis | Ce que je veux apprendre |
+| --- | --- | --- |
+| Machine learning | Premiers projets en Python | Préparer des données, entraîner et évaluer un modèle |
+| Développement | Ma base, web et Java | Écrire du code plus propre et mieux testé |
 
-**Deuxième année**
-- Programmation orientée objet et patrons de conception.
-- Probabilités, et cryptographie et sécurité (arithmétique modulaire, RSA, signature, attaques).
-- Programmation système.
-- Projet web animeRequester en équipe, sur GitHub, avec tickets et pull requests.
-
-## Domaines qui m'intéressent
-
-| Priorité | Domaine | Où j'en suis | Ce que je veux apprendre |
-| --- | --- | --- | --- |
-| 1 | Machine learning | Débutant, pas encore de projet | Préparer des données, entraîner et évaluer un modèle simple en Python |
-| 2 | Cybersécurité | Débutant, cours de cryptographie | Les attaques et les défenses courantes, en pratique sur un PC de test sous Kali Linux |
-| 3 | Développement | Ma base, web et Java | Écrire du code plus propre et mieux testé |
-
-## Niveau par domaine
+## Niveau
 
 <p align="center">
-  <img src="./assets/niveau.svg" alt="Niveau par domaine : HTML, CSS et JavaScript à l'aise, Java, PHP et SQL intermédiaire, Python et C notions, machine learning et cybersécurité débutant" width="720">
+  <img src="./assets/niveau.svg" alt="Niveau par domaine" width="720">
 </p>
 
 ## Technologies
 
-**Langages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,c" alt="HTML, CSS, JavaScript, Bootstrap, PHP, Java, Python, C">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,php,java,c,git,github,linux&perline=11" alt="Python, JavaScript, HTML, CSS, Bootstrap, PHP, Java, C, Git, GitHub, Linux">
 </p>
 
-**Applications utilisées**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer">
 </p>
 
-## Projets
+## Projet
 
-| Projet | Contenu | Technologies | Ma part |
-| --- | --- | --- | --- |
-| Viking Transport | Site de réservation de voyages en car (équipe de 8) | PHP, SQL, Bootstrap, Git | Page de statistiques de l'administrateur : 8 requêtes SQL, 7 onglets |
-| YINSH en Java | Jeu de plateau à deux joueurs (équipe de 4) | Java, Git | Contrôleurs de l'interface et 3 modes d'interaction à la souris |
-| animeRequester | Application web de recherche d'animes (équipe, en cours) | HTML, CSS, JavaScript, Git, GitHub | Formulaire, validation W3C, modules JavaScript, recherche par genre |
-| Jeu de memory | Jeu en JavaScript sans bibliothèque, 3 niveaux, chronomètre, meilleur score | JavaScript | Projet personnel |
-
-Les projets de première année sont hébergés sur le serveur de l'université et ne sont pas publics.
-
-## Méthode de travail
-
-- Travail en équipe avec Git : branches, tickets et pull requests vers une branche de développement.
-- Modélisation des données avec Merise avant d'écrire les requêtes SQL.
-- Validation du HTML avec le validateur W3C.
-- Langues : persan (langue maternelle), français, anglais (B1 avancé).
+| Projet | Contenu | Technologies |
+| --- | --- | --- |
+| Jeu de memory | Jeu sans bibliothèque, 3 niveaux, chronomètre, meilleur score enregistré | JavaScript |
 
 ## Activité GitHub
 
@@ -86,12 +52,22 @@ Les projets de première année sont hébergés sur le serveur de l'université 
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Statistiques GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=donut&theme=transparent&hide_border=true" alt="Langages les plus utilisés">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElyasAhm4di&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasAhm4di&layout=donut&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés">
 </p>
 
-## Contact
+## Quand je suis libre
 
-Le plus simple est de m'écrire sur [LinkedIn](https://www.linkedin.com/in/elyas-ahmadi-25904a3a9).
+<p align="center">
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix">
+  <img src="https://img.shields.io/badge/Prime_Video-1F2E3E?style=for-the-badge&logo=primevideo&logoColor=white" alt="Prime Video">
+  <img src="https://img.shields.io/badge/%E2%9A%BD_Football-2E7D32?style=for-the-badge" alt="Football">
+</p>
+
+## Langues
+
+Persan (langue maternelle), français et anglais (B1 avancé).
 
 <sub>Je m'aide d'assistants IA pour structurer et relire mon travail.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" alt="">
