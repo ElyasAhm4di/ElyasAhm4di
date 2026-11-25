@@ -20,6 +20,7 @@ Je suis Elyas, développeur et passionné de machine learning. Ce qui m'attire, 
 | --- | --- | --- |
 | Machine learning | Premiers projets en Python | Préparer des données, entraîner et évaluer un modèle |
 | Développement | Ma base, web et Java | Écrire du code plus propre et mieux testé |
+| Bases de données | À l'aise en SQL | Concevoir des schémas plus solides et optimiser les requêtes |
 | Cybersécurité | Débutant : injections SQL, cryptographie (RSA) | Sécuriser une appli web, comprendre les attaques courantes |
 
 ## Niveau
