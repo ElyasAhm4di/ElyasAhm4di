@@ -4,7 +4,7 @@ name: Cartes de statistiques
 # (ou à la main depuis l'onglet Actions).
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 3 * * 1"   # une fois par semaine (lundi)
   workflow_dispatch:
   push:
     branches: [main]
